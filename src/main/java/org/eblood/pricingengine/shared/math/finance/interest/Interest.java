@@ -1,4 +1,4 @@
-package org.eblood.pricingengine.shared.math.finance;
+package org.eblood.pricingengine.shared.math.finance.interest;
 
 public class Interest {
 

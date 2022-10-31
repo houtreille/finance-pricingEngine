@@ -1,6 +1,7 @@
 package org.eblood.pricingengine.shared.math.finance;
 
 import org.assertj.core.data.Percentage;
+import org.eblood.pricingengine.shared.math.finance.interest.Interest;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
