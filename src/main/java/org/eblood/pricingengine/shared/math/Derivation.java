@@ -1,4 +1,4 @@
-package org.eblood.pricingengine.math;
+package org.eblood.pricingengine.shared.math;
 
 import java.util.function.DoubleFunction;
 import java.util.function.Function;

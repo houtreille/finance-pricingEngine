@@ -1,4 +1,4 @@
-package org.eblood.pricingengine.math.finance;
+package org.eblood.pricingengine.shared.math.finance;
 
 import org.assertj.core.data.Percentage;
 import org.junit.jupiter.api.Test;

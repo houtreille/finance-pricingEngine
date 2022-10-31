@@ -1,4 +1,4 @@
-package org.eblood.pricingengine.math;
+package org.eblood.pricingengine.shared.math;
 
 public class MathematicalBasicOperations {
 

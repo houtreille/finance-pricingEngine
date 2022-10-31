@@ -1,4 +1,4 @@
-package org.eblood.pricingengine.math;
+package org.eblood.pricingengine.shared.math;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
